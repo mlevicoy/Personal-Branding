@@ -102,6 +102,47 @@
       <li>Conclusiones.</li>
     </ul>
   </li>
+  <li>Clase 4 <br>Inteligencia Emocional (El factor clave en rendimiento)</br>:
+    <ul>
+      <li>Introducción.</li>
+      <li>Modelo de inteligencia emocional:
+        <ul>
+          <li>Conciencia de uno mismo:
+            <ul>
+              <li>Las palabras importan.</li>              
+            </ul>
+          </li>
+          <li>Autogestión:
+            <ul>
+              <li>Autocontrol emocional.</li>
+              <li>El test del Marshmallow.</li>
+              <li>Adaptabilidad.</li>
+              <li>Orientación al logro.</li>
+              <li>Perspectiva positiva.</li>
+            </ul>
+          </li>
+          <li>Conciencia social:
+            <ul>
+              <li>Empatía.</li>
+              <li>Conciencia organizacional.</li>
+              <li>El peligro de los extremos.</li>              
+            </ul>
+          </li>
+          <li>Gestión de las relaciones:
+            <ul>
+              <li>Influencia.</li>
+              <li>Coach y mentor.</li>
+              <li>Manejo de conflictos.</li>
+              <li>Trabajo en equipo.</li>
+              <li>Liderazgo inspiracional.</li>              
+            </ul>
+          </li>
+          <li>¿Cómo desarrollar estas competencias?</li>
+          <li>Conclusión.</li>
+        </ul>
+      </li> 
+    </ul> 
+  </li>
 </ol>
 </p>
 
