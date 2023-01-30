@@ -51,9 +51,57 @@
           <li>Técnicas básicas de oratoria para entornos digitales.</li>          
         </ul>
       </li>
-      <li>Conclusiones</li>
+      <li>Conclusiones.</li>
     </ul>      
-  </li>   
+  </li>
+  <li>Clase 3 <b>Gestión del tiempo</b>:
+    <ul>
+      <li>Introducción:
+        <ul>
+          <li>GNÓTHI SEAUTÓN (Conócete a ti mismo).</li>
+          <li>Procastinar.</li>
+          <li>Cómo enfrentar la procastinación.</li>
+        </ul>
+      </li>
+      <li>Los ladrones del tiempo:
+        <ul>
+          <li>Los distractores.</li>
+          <li>Las reuniones.</li>
+          <li>El tiempo fantasma.</li>
+        </ul>
+      </li>
+      <li>Priorizar:
+        <ul>
+          <li>La matriz de Eisenhower.</li>
+          <li>Distinguir importante de urgente.</li>
+          <li>Distinguir lo principal de lo accesorio.</li>
+          <li>Actividades críticas.</li>          
+        </ul>
+      </li>
+      <li>La agenda:
+        <ul>
+          <li>Lo que hay que hacer.</li>
+          <li>Priorizar.</li>
+          <li>Incorporar el tiempo.</li>
+          <li>Agendar actividades.</li>                     
+        </ul>
+      </li>
+      <li>Buenas prácticas de gestión del tiempo:
+        <ul>
+          <li>Trabajar por bloques.</li>
+          <li>Programar lo más importante para la mañana.</li>
+          <li>Programar lo que no me gusta para la mañana.</li>
+          <li>Poner límites.</li>
+          <li>Programar bloques de distracción.</li>
+          <li>Dejar tiempo para imprevistos.</li>
+          <li>Dejar el día de mañana programado.</li>
+          <li>Empezar proactivo.</li>
+          <li>Comunicaciones asincrónicas.</li>
+        </ul>
+      </li>
+      <li>Conclusiones.</li>
+    </ul>
+  </li>
 </ol>
 </p>
 
