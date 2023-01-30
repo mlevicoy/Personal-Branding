@@ -3,7 +3,7 @@
 <p>El contenido de este taller es:</p>
 <p>
 <ol>
-  <li>Clase 1 <b>Personal Branding</b>:
+  <li>Clase 1 <a href="https://github.com/mlevicoy/Personal-Branding/blob/main/Clase%20N%C2%B01%20Taller%20de%20habilidades%20.pdf"><b>Personal Branding</b></a>:
     <ul>
       <li>Introducción.</li>
       <li>La marca personal.</li>
@@ -35,7 +35,7 @@
       <li>Conclusiones.</li>      
     </ul>
   </li>
-  <li>Clase 2 <b>Reuniones virtuales y Oratoria digital</b>:
+  <li>Clase 2 <a href="https://github.com/mlevicoy/Personal-Branding/blob/main/Clase%20N%C2%B02%20Taller%20de%20habilidades%20.pdf"><b>Reuniones virtuales y Oratoria digital</b></a>:
     <ul>
       <li>Introducción.</li>
       <li>Reuniones virtuales y webinars:
@@ -54,7 +54,7 @@
       <li>Conclusiones.</li>
     </ul>      
   </li>
-  <li>Clase 3 <b>Gestión del tiempo</b>:
+  <li>Clase 3 <a href="https://github.com/mlevicoy/Personal-Branding/blob/main/Clase%20N%C2%B03%20Taller%20de%20habilidades%20.pdf"><b>Gestión del tiempo</b></a>:
     <ul>
       <li>Introducción:
         <ul>
@@ -102,7 +102,7 @@
       <li>Conclusiones.</li>
     </ul>
   </li>
-  <li>Clase 4 <br>Inteligencia Emocional (El factor clave en rendimiento)</br>:
+  <li>Clase 4 <a href="https://github.com/mlevicoy/Personal-Branding/blob/main/Clase%20N%C2%B0%204%20Inteligencia%20Emocional.pdf"><b>Inteligencia Emocional (El factor clave en rendimiento)</b></a>:
     <ul>
       <li>Introducción.</li>
       <li>Modelo de inteligencia emocional:
