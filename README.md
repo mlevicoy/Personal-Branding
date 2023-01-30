@@ -1,8 +1,9 @@
 <h1 align="center">Taller Personal Branding</h1>
 <p>El <b>Personal branding</b> es la gestión de tu marca personal, actuando y posicionándote de forma que las personas entienda claramente quién eres y qué ofreces. Para eso, debes saber por lo que quieres ser recordado y trabajar bien esa imagen.</p>
 <p>El contenido de este taller es:</p>
+<p>
 <ol>
-  <li>Clase 1 <b>Personal Branding</b>:<br><br>
+  <li>Clase 1 <b>Personal Branding</b>:
     <ul>
       <li>Introducción.</li>
       <li>La marca personal.</li>
@@ -36,6 +37,7 @@
   </li>
   <li>Clase 2 <b>Reuniones virtuales y Oratoria digital</b>:</li>   
 </ol>
+</p>
 
 
 
