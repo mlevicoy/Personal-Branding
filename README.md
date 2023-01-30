@@ -35,7 +35,25 @@
       <li>Conclusiones.</li>      
     </ul>
   </li>
-  <li>Clase 2 <b>Reuniones virtuales y Oratoria digital</b>:</li>   
+  <li>Clase 2 <b>Reuniones virtuales y Oratoria digital</b>:
+    <ul>
+      <li>Introducción.</li>
+      <li>Reuniones virtuales y webinars:
+        <ul>
+          <li>Proveedores líderes de reuniones virtuales y webinars.</li>
+          <li>Diferencias entre reuniones virtuales y webinars.</li>
+          <li>El contenido de las sesiones.</li>          
+        </ul>
+      </li>
+      <li>Oratoria digital:
+        <ul>
+          <li>La unión de la marca y el relator.</li>
+          <li>Técnicas básicas de oratoria para entornos digitales.</li>          
+        </ul>
+      </li>
+      <li>Conclusiones</li>
+    </ul>      
+  </li>   
 </ol>
 </p>
 
