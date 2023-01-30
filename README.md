@@ -99,6 +99,13 @@
           <li>Comunicaciones asincrónicas.</li>
         </ul>
       </li>
+      <li>Videos:
+        <ul>
+          <li><a href="https://youtu.be/E16Q4_CCOGk">Primero lo primero. Hay que Priorizar</a></li>
+          <li><a href="https://youtu.be/PG6oFK0a1NA">¿Qué pasa dentro de la mente de un procrastinador?</a></li>
+          <li><a href="https://youtu.be/vVsXO9brK7M">How to know your life purpose in 5 minutes</a></li>
+        </ul>
+      </li>
       <li>Conclusiones.</li>
     </ul>
   </li>
